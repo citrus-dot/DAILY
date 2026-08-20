@@ -11,12 +11,12 @@
 > 零外部依赖 · 数据存本地 · 双击即开 · 一键封装为安卓桌面应用。
 
 <p align="center">
-  <a href="DAILY.html"><img src="https://img.shields.io/badge/DAILY-Single--file%20HTML-lightgrey?style=social" alt="single-file HTML"/></a>
-  <a href="Technical-Documentation.md"><img src="https://img.shields.io/badge/Runtime-Zero%20dependency-lightgrey?style=social" alt="zero dependency"/></a>
-  <a href="Technical-Documentation.md"><img src="https://img.shields.io/badge/Data-Local--only-lightgrey?style=social" alt="local-only"/></a>
-  <a href="android-app/README.md"><img src="https://img.shields.io/badge/Platform-Desktop%20%26%20Mobile-lightgrey?style=social" alt="desktop & mobile"/></a>
-  <a href="android-app/README.md"><img src="https://img.shields.io/badge/Mobile-Capacitor%20Android-lightgrey?style=social" alt="capacitor android"/></a>
-  <a href="#license"><img src="https://img.shields.io/badge/License-MIT-lightgrey?style=social" alt="MIT license"/></a>
+  <a href="DAILY.html"><img src="https://img.shields.io/badge/type-single--file%20html-10b981?logo=html5" alt="single-file html"/></a>
+  <a href="Technical-Documentation.md"><img src="https://img.shields.io/badge/runtime-zero%20dependency-f59e0b?logo=npm" alt="zero dependency"/></a>
+  <a href="Technical-Documentation.md"><img src="https://img.shields.io/badge/data-local--only-3b82f6?logo=sqlite" alt="local-only"/></a>
+  <a href="android-app/README.md"><img src="https://img.shields.io/badge/platform-desktop%20%26%20mobile-8b5cf6?logo=linux" alt="desktop & mobile"/></a>
+  <a href="android-app/README.md"><img src="https://img.shields.io/badge/mobile-capacitor%20android-0ea5e9?logo=capacitor" alt="capacitor android"/></a>
+  <a href="#license"><img src="https://img.shields.io/badge/license-MIT-6366f1?logo=opensourceinitiative" alt="MIT license"/></a>
 </p>
 
 ---
