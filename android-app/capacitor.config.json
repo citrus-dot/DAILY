@@ -1,0 +1,20 @@
+{
+  "appId": "cn.orange.daily",
+  "appName": "DAILY",
+  "webDir": "web",
+  "server": {
+    "androidScheme": "https",
+    "hostname": "daily.local"
+  },
+  "android": {
+    "allowMixedContent": false,
+    "backgroundColor": "#1b2230"
+  },
+  "plugins": {
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_notify",
+      "iconColor": "#3b82f6",
+      "sound": "none"
+    }
+  }
+}

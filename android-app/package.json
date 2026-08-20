@@ -1,0 +1,22 @@
+{
+  "name": "daily-android",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DAILY 打卡应用安卓壳（Capacitor）",
+  "scripts": {
+    "sync": "bash sync-web.sh && cap sync android",
+    "build:debug": "bash build-android.sh debug",
+    "build:release": "bash build-android.sh release",
+    "open": "cap sync android && cap open android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/core": "^6.1.2",
+    "@capacitor/filesystem": "^6.0.1",
+    "@capacitor/local-notifications": "^6.0.1",
+    "@capacitor/share": "^6.0.1"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.2"
+  }
+}

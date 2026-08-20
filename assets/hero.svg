@@ -1,0 +1,48 @@
+<svg viewBox="0 0 1200 420" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="DAILY 日常打卡小工具项目横幅">
+  <title>DAILY 日常打卡小工具</title>
+  <desc>单文件 HTML 的每日任务打卡小工具，零依赖、本地优先。</desc>
+  <rect width="1200" height="420" fill="#F7F6F2"/>
+  <circle cx="1120" cy="40" r="130" fill="#81C784" opacity="0.12"/>
+  <circle cx="1080" cy="90" r="60" fill="#1B5E20" opacity="0.08"/>
+  <circle cx="70" cy="390" r="90" fill="#C9CCC4" opacity="0.15"/>
+  <defs>
+    <linearGradient id="chk" gradientUnits="userSpaceOnUse" x1="33.6" y1="67.2" x2="74.4" y2="39.6">
+      <stop offset="0" stop-color="#81C784"/>
+      <stop offset="1" stop-color="#1B5E20"/>
+    </linearGradient>
+    <clipPath id="iconClip"><rect x="0" y="0" width="108" height="108" rx="22"/></clipPath>
+  </defs>
+
+  <g transform="translate(90,96) scale(1.85)">
+    <g clip-path="url(#iconClip)">
+      <rect width="108" height="108" fill="#EEEDE9"/>
+      <g fill="none" stroke="#C9CCC4" stroke-width="0.8">
+        <path d="M21.600,45.685 L62.315,86.400"/>
+        <path d="M21.600,28.715 L79.285,86.400"/>
+        <path d="M49.200,21.600 L86.400,58.800"/>
+        <path d="M21.600,83.915 L83.915,21.600"/>
+        <path d="M36.085,86.400 L86.400,36.085"/>
+        <path d="M21.600,68.400 L68.400,21.600"/>
+      </g>
+      <path d="M41.443,48.557 L49.200,56.315 L66.557,38.957 L75.043,47.443 L49.200,73.285 L32.957,57.043 Z" fill="url(#chk)"/>
+    </g>
+    <rect width="108" height="108" rx="22" fill="none" stroke="#D3D1C7" stroke-width="1"/>
+  </g>
+
+  <text x="400" y="168" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="66" font-weight="800" fill="#1F2937">DAILY</text>
+  <text x="400" y="226" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="30" font-weight="500" fill="#4B5563">日常打卡小工具</text>
+  <text x="400" y="266" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="19" fill="#6B7280">单文件 HTML · 零外部依赖 · 数据存本地</text>
+
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="17" font-weight="500">
+    <rect x="400" y="292" width="132" height="40" rx="20" fill="#EAF3DE" stroke="#C0DD97" stroke-width="1"/>
+    <text x="466" y="317" text-anchor="middle" fill="#3B6D11">每日打卡</text>
+    <rect x="544" y="292" width="132" height="40" rx="20" fill="#EAF3DE" stroke="#C0DD97" stroke-width="1"/>
+    <text x="610" y="317" text-anchor="middle" fill="#3B6D11">异步待办</text>
+    <rect x="688" y="292" width="132" height="40" rx="20" fill="#EAF3DE" stroke="#C0DD97" stroke-width="1"/>
+    <text x="754" y="317" text-anchor="middle" fill="#3B6D11">本地数据</text>
+    <rect x="832" y="292" width="160" height="40" rx="20" fill="#EEEDE9" stroke="#C9CCC4" stroke-width="1"/>
+    <text x="912" y="317" text-anchor="middle" fill="#5F5E5A">可封装安卓 App</text>
+  </g>
+
+  <text x="400" y="372" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="15" fill="#9CA3AF">一个 .html 文件，双击即开 · 或经 Capacitor 构建为桌面安卓应用</text>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportHeight="108"
+    android:viewportWidth="108">
+    <!-- Checkmark: scaled to 60% and centered in the 66dp safe zone so the
+         launcher mask does not crop its tips. Light bottom-left -> dark top-right gradient -->
+    <group android:scaleX="0.6" android:scaleY="0.6" android:pivotX="54" android:pivotY="54">
+        <path android:pathData="M33.071,44.929 L46.000,57.858 L74.929,28.929 L89.071,43.071 L46.000,86.142 L18.929,59.071 Z">
+            <aapt:attr name="android:fillColor">
+                <gradient
+                    android:type="linear"
+                    android:startX="20"
+                    android:startY="76"
+                    android:endX="88"
+                    android:endY="30">
+                    <item android:offset="0" android:color="#81C784" />
+                    <item android:offset="1" android:color="#1B5E20" />
+                </gradient>
+            </aapt:attr>
+        </path>
+    </group>
+</vector>
